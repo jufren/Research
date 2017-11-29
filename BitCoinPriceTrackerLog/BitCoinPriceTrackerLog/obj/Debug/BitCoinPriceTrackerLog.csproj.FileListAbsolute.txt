@@ -1,0 +1,8 @@
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\bin\Debug\BitCoinPriceTrackerLog.exe.config
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\bin\Debug\BitCoinPriceTrackerLog.exe
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\bin\Debug\BitCoinPriceTrackerLog.pdb
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\bin\Debug\Newtonsoft.Json.dll
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\bin\Debug\Newtonsoft.Json.xml
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\obj\Debug\BitCoinPriceTrackerLog.csprojResolveAssemblyReference.cache
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\obj\Debug\BitCoinPriceTrackerLog.exe
+c:\users\jufren\documents\visual studio 2015\Projects\BitCoinPriceTrackerLog\BitCoinPriceTrackerLog\obj\Debug\BitCoinPriceTrackerLog.pdb
