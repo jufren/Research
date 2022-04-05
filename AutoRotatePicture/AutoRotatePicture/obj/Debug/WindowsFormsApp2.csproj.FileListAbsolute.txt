@@ -1,0 +1,17 @@
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.Native-Q16-x64.dll
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.Native-Q16-x86.dll
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.NET.Core.dll
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Magick.NET.Core.xml
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\16898448_admin\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
