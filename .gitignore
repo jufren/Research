@@ -3,3 +3,6 @@
 ################################################################################
 
 *.vsidx
+*.lock
+*.suo
+/StudyML/OCR/OCRForms/OCRForms/tessdata-main.zip

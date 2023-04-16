@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StudyML",
+    "\\StudyML\\OCR\\OCRForms",
+    "\\StudyML\\OCR\\OCRForms\\OCRForms",
+    "\\StudyML\\OCR\\OCRForms\\OCRForms\\bin",
+    "\\StudyML\\OCR\\OCRForms\\OCRForms\\bin\\Debug",
+    "\\StudyML\\OCR\\OCRForms\\OCRForms\\bin\\Debug\\net6.0-windows"
   ],
+  "SelectedNode": "\\StudyML\\ObjectRecognition",
   "PreviewInSolutionExplorer": false
 }
